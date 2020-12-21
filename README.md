@@ -19,11 +19,4 @@ Here are some ideas to get you started:
 [![Rakesh S R's github stats](https://github-readme-stats.vercel.app/api?username=rakeshsagalagatte)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[link to Google!](http://google.com)
 
-__This **so** crazy__
-
-* Item one is like 
-* alksjdkdsf vd
-
-![Linkedin Logo](https://linkedin.com)
