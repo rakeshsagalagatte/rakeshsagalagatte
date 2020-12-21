@@ -18,5 +18,15 @@ Here are some ideas to get you started:
 
 [![Rakesh S R's github stats](https://github-readme-stats.vercel.app/api?username=rakeshsagalagatte)](https://github.com/anuraghazra/github-readme-stats)
 
+<!-- <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+<p
+ class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="rakesh-s-r-059391186">
+ 
+ <a class="LI-simple-link" href='https://in.linkedin.com/in/rakesh-s-r-059391186?trk=profile-badge'>Rakesh S  R</a>
 
-<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="rakesh-s-r-059391186"><a class="LI-simple-link" href='https://in.linkedin.com/in/rakesh-s-r-059391186?trk=profile-badge'>Rakesh S  R</a></div>
+</p> -->
+<!-- 
+
+`<addr>` eleemrnt laksjdfb sfjkadsgfjb
+<img align ="right" src = "https://i.imgur.com/w4pKOQi.jpg" width="150" height="150">
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=rakeshsagalagatte) alt=akanksha-raghav/></p>
