@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Rakesh S R's github stats](https://github-readme-stats.vercel.app/api?username=rakeshsagalagatte&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rakeshsagalagatte&show_icons=true&theme=dark)
 
 ![](https://img.shields.io/twitter/follow/Rakesh98448963?label=Follow&style=social)
