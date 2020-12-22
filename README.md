@@ -1,4 +1,4 @@
-### Hey 👋, I'm Rakesh S R
+### Hey 👋, I'm Rakesh
 
 
 <!--
@@ -16,15 +16,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Rakesh S R's github stats](https://github-readme-stats.vercel.app/api?username=rakeshsagalagatte)](https://github.com/anuraghazra/github-readme-stats)
+[![Rakesh S R's github stats](https://github-readme-stats.vercel.app/api?username=rakeshsagalagatte&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+![](https://img.shields.io/twitter/follow/Rakesh98448963?label=Follow&style=social)
+
 
 <p>
-<!-- <img src=https://komarev.com/ghpvc/?username=rakeshsagalagatte alt=rakesh_S_R/> 
--->
-<a href="https://www.linkedin.com/in/rakesh-s-r-059391186/" >
-    <img src="https://img.shields.io/static/v1?label=LinkedIn&message=Rakesh&logo=linkedIn&color=red">
+<a href="https://www.linkedin.com/in/rakesh-s-r-059391186/">
+    <img src="https://img.shields.io/static/v1?label=LinkedIn&message=connect&logo=linkedIn&color=blue">
   </a>
- <a href="https://twitter.com/Rakesh98448963" > 
-   <img src="https://img.shields.io/static/v1?label=Twitter&message=Rakesh&logo=twitter">
- </a>
 </p>
